@@ -84,24 +84,3 @@ public class myBookingApp{
         System.out.println("\nTotal bookings charged for all the venues : RM " + totalAllBooking);
     }
 }
-
-//comments
-/*****************************
-PROGRAMMER #1
-Name: MUHAMMAD MU'IZZ BIN RUSDI
-Student ID: 2020488798
-Group: CS1102B
-Phone Number: 01111850771
-
-PROGRAMMER #2
-Name:MUHAMMAD ISHRAQI BIN MOHD RIZAL
-Student ID: 2020463392
-Group: CS1102B
-Phone Number: 0172915854
-
-PROGRAMMER #3
-Name: MUHAMMAD HANIF BIN HAMIZAN
-Student ID: 2020601086
-Group: CS1102B
-Phone Number: 01137959011
-*****************************/
